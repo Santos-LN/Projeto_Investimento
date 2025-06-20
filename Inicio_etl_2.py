@@ -56,6 +56,6 @@ df['Conversão Leads'] = df['Leads Recebidos'] - df['Leads Parados']
 df.loc[df['id_funcionario'].isin([15, 33]), 'fat_1° trimestre'] = [64545.01, 65884.06]
 
 #print(tabulate(df, headers= 'keys', tablefmt= 'grid'))
-# print(tabulate(df[['id_funcionario', 'Leads Recebidos', 'Leads Parados', 'conversão de lead']], headers='keys', tablefmt='grid'))
+#print(tabulate(df[['id_funcionario', 'Leads Recebidos', 'Leads Parados', 'conversão de lead']], headers='keys', tablefmt='grid'))
 
 print(tabulate(df[['fat_1° trimestre', 'fat_2° trimestre', 'fat_3° trimestre', 'fat_4° trimestre']], headers= 'keys', tablefmt= 'grid'))
