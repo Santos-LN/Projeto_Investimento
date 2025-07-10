@@ -67,9 +67,9 @@ O objetivo foi aplicar na prática um ciclo completo de **Análise de Dados e Bu
 ---
 
 ## 🖥️ **Dashboard Preview**  
+<img width="1599" height="1599" alt="image" src="https://github.com/user-attachments/assets/0ff0c4cc-c212-4f28-ad3a-e0080a4fae2a" />
 
-https://github.com/user-attachments/assets/2c7bf0b8-0247-4ed3-ad1f-97d9c868107a
-
+Link:https://encurtador.com.br/pgkjO
 
 ## 👨‍💻 **Autor**  
 - **Lucas Santos**  
